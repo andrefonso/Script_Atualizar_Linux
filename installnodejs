@@ -1,0 +1,14 @@
+#!/bin/bash
+
+#Instalação do Node JS
+
+# Define a senha do sudo
+senha_sudo="informar aqui a sua senha"
+echo ""
+echo "Fazendo o Download do Node JS"
+echo $senha_sudo | sudo -S curl -fsSL https://deb.nodesource.com/setup_lts.x | sudo -S -E bash -
+echo ""
+echo "Instalando o Node JS"
+sudo apt install nodejs -y && echo Instalação do Node Js concluída com sucesso!
+
+
