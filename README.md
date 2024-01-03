@@ -16,7 +16,7 @@
 - Para o script ter permissão de execução executar o comando a seguir: **chmod +x installnodejs**
 - Em seguida o mesmo pode ser executado para instalação do Node JS
 
-# **3) installohmyzshell: A finalidade do script é instalar o OhmyZshell e os plugins syntax-highlighting, autosuggestions, fzf e K
+# **3) installohmyzshell: A finalidade do script é instalar o OhmyZshell e os plugins syntax-highlighting, autosuggestions, fzf e K**
 
 ## Instruções para execução do Script:
  - Baixar o arquivo installohmyzshell
