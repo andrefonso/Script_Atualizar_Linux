@@ -8,7 +8,7 @@
 - Para o script ter permissão de execução executar o comando a seguir no terminal: **chmod +x atualizar.sh**
 - Em seguida o mesmo pode ser executado para execução do script
 
-# **2) installnodejs: A finalidade do Script e baixar e instalar o Node JS**
+# **2) installnodejs: A finalidade do Script é baixar e instalar o Node JS**
 
 ## Instruções para execução do Script para Instalação do Node JS:
 - Baixar o arquivo installnodejs
