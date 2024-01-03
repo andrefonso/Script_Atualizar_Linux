@@ -1,4 +1,4 @@
-<font color="green">Scripts para execução no Terminal do Linux</font>
+<h1 align="center"> Scripts para execução no Terminal do Linux </h1
 
 # **1) atualizar.sh: A finalidade do script é buscar por atualizações, executar a instalação das atualizações localizadas e remover arquivos temporários**
 
