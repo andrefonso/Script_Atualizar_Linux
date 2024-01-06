@@ -27,6 +27,6 @@
 
 ## **4) Configuração dos plugins syntax-highlighting, autosuggestions, fzf e K:**
   - Editar com o NANO o arquivo **.zshrc** e incluir na linha de plugins (aonde já se encontra o git) o texto abaixo separando-os por um espaço. Salvar o arquivo com CTRL+O e sair do NANO com CTRL+X:</br></br>
-     plugins=(git syntax-highlighting autosuggestions fzf K)
+     plugins=(git syntax-highlighting zsh-autosuggestions fzf K)
     
 
