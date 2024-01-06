@@ -25,3 +25,8 @@
 - Para o script ter permissão de execução executar o comando a seguir no terminal: **chmod +x installohmyzshell**
 - Em seguida o mesmo pode ser executado para execução do script
 
+  ## **4) Configuração dos plugins syntax-highlighting, autosuggestions, fzf e K:
+  - Editar com o NANO o arquivo .zshrc e incluir na linha de plugins (aonde já se encontra o git) o texto abaixo separando-os por um espaço. Salvar o arquivo com CTRL+O e sari do NANO com CTRL+X:
+     plugins=(git syntax-highlighting autosuggestions fzf K)
+    
+
