@@ -7,7 +7,7 @@
 - Baixar o arquivo atualizar.sh
 - Editar o arquivo usando nano e na linha **senha_sudo="Digitar aqui a sua senha e salvar o arquivo"** informar sua senha em seguida use CTRL + O para salvar o arquivo e CTRL + X para sair do NANO. 
 - Para o script ter permissão de execução executar o comando a seguir no terminal:</br>
-`chmod +x atualizar.sh`
+`chmod +x atualizar.sh` </br>
 - Em seguida o mesmo pode ser executado para execução do script
 
 ## **2) installnodejs: A finalidade do Script é baixar e instalar o Node JS**
