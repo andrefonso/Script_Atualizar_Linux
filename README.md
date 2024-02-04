@@ -1,6 +1,8 @@
 # Scripts para execução no Terminal do Linux
 ***
 
+<img src="imagens/linux.png" width="400px">
+
 
 ## **1) atualizar.sh: A finalidade do script é buscar por atualizações, executar a instalação das atualizações localizadas e remover arquivos temporários**
 
