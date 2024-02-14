@@ -16,7 +16,9 @@
 ### Sobre os repositórios usados pelos sistemas operacionais baseados em Debian:
   -  O arquivo /etc/apt/sources.list é usado pelos sistemas operacionais baseados em Debian, como o Ubuntu, para gerenciar os repositórios de software do sistema.Ele contém uma lista dos repositórios de onde o sistema pode baixar e instalar pacotes de software.
   -  O conteúdo típico deste arquivo inclui URLs dos repositórios oficiais do sistema operacional (como main, universe, multiverse, restricted no Ubuntu) e, possivelmente, repositórios de terceiros adicionados pelo usuário. Cada linha normalmente especifica um repositório e sua localização.
-  -  Um exemplo de conteúdo em um arquivo /etc/apt/sources.list para um sistema Ubuntu pode ser:
+  -  Um exemplo de conteúdo em um arquivo /etc/apt/sources.list para um sistema Ubuntu pode ser:</br>
+     <img src="imagens/repositorios deb.png" width="600px">
+  - Essas linhas fornecem os principais repositórios do Ubuntu, bem como os repositórios de atualizações de segurança e de atualizações regulares. Dependendo da configuração do sistema, pode haver outras linhas para repositórios de terceiros ou específicos do usuário.
 
     
 
