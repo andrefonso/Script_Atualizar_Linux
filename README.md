@@ -13,6 +13,13 @@
 `chmod +x atualizar.sh`
 - Em seguida o mesmo pode ser executado para execução do script
 
+### Sobre os repositórios usados pelos sistemas operacionais baseados em Debian:
+  -  O arquivo /etc/apt/sources.list é usado pelos sistemas operacionais baseados em Debian, como o Ubuntu, para gerenciar os repositórios de software do sistema.Ele contém uma lista dos repositórios de onde o sistema pode baixar e instalar pacotes de software.
+  -  O conteúdo típico deste arquivo inclui URLs dos repositórios oficiais do sistema operacional (como main, universe, multiverse, restricted no Ubuntu) e, possivelmente, repositórios de terceiros adicionados pelo usuário. Cada linha normalmente especifica um repositório e sua localização.
+  -  Um exemplo de conteúdo em um arquivo /etc/apt/sources.list para um sistema Ubuntu pode ser:
+
+    
+
 ## **2) installnodejs: A finalidade do Script é baixar e instalar o Node JS**
 
 ### Instruções para execução do Script para Instalação do Node JS:
