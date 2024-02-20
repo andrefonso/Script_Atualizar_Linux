@@ -1,0 +1,23 @@
+#!/bin/bash
+
+# Define a senha do sudo
+senha_sudo="digite aqui a sua senha"
+
+echo "BUSCANDO POR ATUALIZAÇÕES"
+echo ""
+echo $senha_sudo | sudo -S apt update --fix-missing -y
+echo ""
+echo "INSTALANDO AS ATUALIZAÇÕES"
+echo ""
+sudo apt -f install -y
+sudo apt update -y && sudo apt dist-upgrade -y && sudo apt full-upgrade -y
+echo ""
+echo "REMOVENDO PACOTES DESNECESSÁRIOS"
+echo ""
+sudo apt autoclean -y
+sudo apt autoremove -y
+echo ""
+echo "ATUALIZAÇÕES FINALIZADAS"
+echo ""
+
+
