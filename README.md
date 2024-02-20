@@ -13,6 +13,8 @@
 `chmod +x atualizar.sh`
 - Em seguida o mesmo pode ser executado para execução do script
 
+  |Observações: o arquivo **atualizar2** contém um script simplificado para buscar, baixar a instalar as atualizações do Linux de origem Debian/Ubuntu.
+
 ### Sobre os repositórios usados pelos sistemas operacionais baseados em Debian:
   -  O arquivo /etc/apt/sources.list é usado pelos sistemas operacionais baseados em Debian, como o Ubuntu, para gerenciar os repositórios de software do sistema.Ele contém uma lista dos repositórios de onde o sistema pode baixar e instalar pacotes de software.
   -  O conteúdo típico deste arquivo inclui URLs dos repositórios oficiais do sistema operacional (como main, universe, multiverse, restricted no Ubuntu) e, possivelmente, repositórios de terceiros adicionados pelo usuário. Cada linha normalmente especifica um repositório e sua localização.
